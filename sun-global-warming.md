@@ -1,9 +1,3 @@
----
-title: Climate Claims Assignment Part 2
-layout: default
-nav_order: 1
----
-
 # Article Analysis
 ## *Study: The sun may have more to do with global warming than carbon dioxide*
 
