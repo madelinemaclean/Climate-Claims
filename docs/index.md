@@ -1,5 +1,13 @@
-Hello World!
+---
+title: Madeline's Page
+layout: default
+nav_order: 1
+---
 
-This is my list
-* this is the first item
-* this is the second item
+# Hello World!
+
+I am learning.
+
+## Oh Look, Another Page
+
+I am having fun!
